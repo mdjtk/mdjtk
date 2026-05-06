@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi 👋, I'm MIDLAJ THONIKKADAVAN
 
-<!--
-**mdjtk/mdjtk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Full Stack Developer who enjoys turning complex ideas into clean, efficient, and user-friendly digital experiences
 
-Here are some ideas to get you started:
+- 🔭 I'm currently working on **Designing and developing a MERN stack application with a strong focus on scalability, performance, and intuitive UI**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I'm currently learning **Diving deeper into GraphQL, TypeScript, and how to build systems that scale without breaking**
+
+- 👯 I'm looking to collaborate on **Impact-driven open source projects where code meets real-world problems**
+
+- 🤝 I'm looking for help with **Understanding system design patterns and thinking like a software architect**
+
+- 💬 Ask me about **Building full-stack apps, React ecosystems, backend logic, or how to go from idea → product**
+
+- 📫 How to reach me **midlajthonikkadavan01@gmail.com**
+
+- ⚡ Fun fact **I don’t just write code—I enjoy refactoring it until it feels right (yes, that’s a thing 😄)**
+
+- 👨‍💻 All of my projects are available at **[https://midlajthonikkadavan.vercel.app](https://midlajthonikkadavan.vercel.app)**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://github.com/mdjtk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="mdjtk" height="30" width="40" /></a>
+<a href="https://dev.to/mdjtk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="mdjtk" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/Midlajthonikkadavan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Midlajthonikkadavan" height="30" width="40" /></a>
+<a href="https://instagram.com/midlaj.thonikkadavan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="midlaj.thonikkadavan" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/android" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=androidstudio" alt="android" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/c" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/dart" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=dart" alt="dart" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/django" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=django" alt="django" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/electron" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=electron" alt="electron" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/express" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=express" alt="express" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/figma" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=figma" alt="figma" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/firebase" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=firebase" alt="firebase" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/flutter" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=flutter" alt="flutter" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mongodb" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nestjs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nestjs" alt="nestjs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/ollama" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/ollama" alt="ollama" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/php" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=php" alt="php" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postgresql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/reactnative" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="reactnative" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/typescript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/unity" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=unity" alt="unity" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/unreal" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=unreal" alt="unreal" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/vuejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=vue" alt="vuejs" width="40" height="40"/> </a></p>
+
