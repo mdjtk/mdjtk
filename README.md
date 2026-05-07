@@ -1,18 +1,62 @@
-# 💫 About Me:
-MIDLAJ THONIKKADAVAN<br><br>Subtitle<br>Full Stack Developer who enjoys turning complex ideas into clean, efficient, and user-friendly digital experiences<br><br>🔭 I'm currently working on<br>Designing and developing a MERN stack application with a strong focus on scalability, performance, and intuitive UI<br><br>🌱 I'm currently learning<br>Diving deeper into GraphQL, TypeScript, and how to build systems that scale without breaking<br><br>👯 I'm looking to collaborate on<br>Impact-driven open source projects where code meets real-world problems<br><br>🤝 I'm looking for help with<br>Understanding system design patterns and thinking like a software architect<br><br>💬 Ask me about<br>Building full-stack apps, React ecosystems, backend logic, or how to go from idea → product<br><br>📫 How to reach me<br>midlajthonikkadavan01@gmail.com<br><br>⚡ Fun fact<br>I don’t just write code—I enjoy refactoring it until it feels right (yes, that’s a thing 😄)
+<div align="center">
 
+# Midlaj Thonikkadavan
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/midlaj.thonikkadavan) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Midlajthonikkadavan) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@MIDLAJ THONIKKADAVAN) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:midlajthonikkadavan@gmail.com) 
+**Full Stack Developer** | Web • App • Game Development
 
-# 💻 Tech Stack:
-![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=mdjtk&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=mdjtk&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=mdjtk&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+*Building simple, scalable, and meaningful solutions.*
+
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=mdjtk&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 👨‍💻 About
+
+I'm a Full Stack Developer with experience building:
+- 🌐 **Web Applications** — MERN stack, React, TypeScript
+- 📱 **Mobile Apps** — React Native, Flutter
+- 🎮 **Games** — Unity, C#
+
+I focus on writing clean, maintainable code and building scalable systems.
+
+---
+
+## 🔧 Tech Stack
+
+**Languages:** TypeScript, JavaScript, Python, C#, Dart, PHP, C
+
+**Frontend:** React, Vite, Tailwind CSS, Framer Motion
+
+**Backend:** Node.js, Express, Firebase, GraphQL
+
+**Tools:** Git, Docker, Vercel, Netlify, Google Cloud
+
+---
+
+## 📫 Connect
+
+- 📧 **Email:** midlajthonikkadavan01@gmail.com
+- 💼 **LinkedIn:** [linkedin.com/in/Midlajthonikkadavan](https://linkedin.com/in/Midlajthonikkadavan)
+- 🌐 **Website:** [midlajthonikkadavan.vercel.app](https://midlajthonikkadavan.vercel.app)
+
+---
+
+<div align="center">
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.shion.dev/api?username=mdjtk&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+
+![Streak](https://streak-stats.demolab.com/?user=mdjtk&theme=dark&hide_border=false)
+
+![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=mdjtk&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+</div>
+
+---
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=mdjtk&icon=0&color=0)
+
+</div>
